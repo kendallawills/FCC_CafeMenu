@@ -7,6 +7,18 @@ body {
     font-family: sans-serif;
 }
 
+h1, h2 {
+    font-family: Impact, serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
 .menu {
     width: 80%;
     background-color: burlywood;
@@ -28,4 +40,8 @@ body {
 
 .item p {
     display: inline-block;
+}
+
+.established {
+    font-style: italic;
 }
